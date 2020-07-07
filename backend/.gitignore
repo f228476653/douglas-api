@@ -111,3 +111,9 @@ coverage
 exports
 .cache
 build
+
+############################
+# Swagger documentation
+############################
+/extensions/**/documentation
+/api/**/documentation
